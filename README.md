@@ -34,7 +34,7 @@ Understanding and measuring churn can help companies:
 
 ### Contract and Subscription Analysis
 - **Group Contracts:** Customers subscribed to group contracts tend to have lower churn rates compared to those who are not part of such plans, demonstrating the cost effectiveness of these contracts.
-- **Contract Duration:** A significant disparity exists between contract types; monthly contracts show a churn rate of 46.29%, whereas annual contracts have a substantially lower churn rate of 6.62% [citeContractComparisons2020].
+- **Contract Duration:** A significant disparity exists between contract types; monthly contracts show a churn rate of 46.29%, whereas annual contracts have a substantially lower churn rate of 6.62% .
 
 ### Usage Patterns and Subscription Charges
 - **Data Consumption:** Customers with an average monthly data consumption of 5 GB on an Unlimited Data Plan experience a higher churn rate compared to those with lower consumption levels.
