@@ -18,7 +18,7 @@ Churn Rate = (Number of Customers Lost) /(Total Number of Customers)
 Understanding and measuring churn can help companies:
 - **Assess their competitive positioning:** Identifying areas where competitors might be outperforming.
 - **Identify customer segments at risk:** Understanding which customer segments are more likely to leave.
-- **Enhance service quality:** Pinpointing opportunities to improve customer satisfaction and retention [citeChurnMetrics2021].
+- **Enhance service quality:** Pinpointing opportunities to improve customer satisfaction and retention.
 
 ## Key Findings
 
