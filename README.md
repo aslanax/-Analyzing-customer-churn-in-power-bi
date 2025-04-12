@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This project analyzes customer churn data to understand the underlying reasons why customers discontinue their services. Customer churn—or customer attrition—is a critical performance metric, as losing existing customers negatively impacts revenue, and attracting new customers typically involves higher costs and resources. Consequently, reducing churn is a strategic priority for many organizations [citeTurn0BasicChurn2020].
+This project analyzes customer churn data to understand the underlying reasons why customers discontinue their services. Customer churn—or customer attrition—is a critical performance metric, as losing existing customers negatively impacts revenue, and attracting new customers typically involves higher costs and resources. Consequently, reducing churn is a strategic priority for many organizations .
 
 ## Definition of Customer Churn
 
