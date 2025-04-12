@@ -24,7 +24,7 @@ Understanding and measuring churn can help companies:
 - **General Rate:** The analysis revealed an overall churn rate of approximately 27% in the given dataset, indicating significant potential for improving retention strategies.
 
 ### Impact of Competition
-- **Competitive Effects:** Analysis shows that around 45% of customer churn is associated with competitors’ offerings. This finding underscores the importance of maintaining a competitive edge and ensuring robust customer success initiatives [citeCompetitiveImpact2019].
+- **Competitive Effects:** Analysis shows that around 45% of customer churn is associated with competitors’ offerings. This finding underscores the importance of maintaining a competitive edge and ensuring robust customer success initiatives .
 
 ### Geographic Analysis
 - **California Case Study:** The churn rate in California was found to be abnormally high, exceeding 60%, suggesting that regional factors or competitive dynamics in this market may be driving customer attrition.
@@ -38,7 +38,7 @@ Understanding and measuring churn can help companies:
 
 ### Usage Patterns and Subscription Charges
 - **Data Consumption:** Customers with an average monthly data consumption of 5 GB on an Unlimited Data Plan experience a higher churn rate compared to those with lower consumption levels.
-- **International Calls:** Analysis of international call data indicates that 72% of customers do not have a dedicated international calling plan, highlighting a potential opportunity for targeted promotions [citeUsagePatterns2018].
+- **International Calls:** Analysis of international call data indicates that 72% of customers do not have a dedicated international calling plan, highlighting a potential opportunity for targeted promotions .
 
 ### Customer Service Calls
 - **Overall Trends:** The non-churned customer group averages approximately 0.37 calls to customer service, while the churned group averages about 2.20 calls. This disparity implies potential dissatisfaction that may contribute to higher churn.
