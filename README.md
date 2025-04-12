@@ -1,6 +1,4 @@
-Below is an enhanced version of the GitHub documentation that includes an "Attachments" section specifying the attached PDF and Power BI (PBIX) file.
 
----
 
 # Customer Churn Analysis Using Power BI
 
