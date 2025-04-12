@@ -12,9 +12,8 @@ This project analyzes customer churn data to understand the underlying reasons w
 
 Customer churn is defined as the rate at which customers stop doing business with an entity. It can be quantified using the following formula:
 
-\[
-\text{Churn Rate} = \frac{\text{Number of Customers Lost}}{\text{Total Number of Customers}}
-\]
+Churn Rate = (Number of Customers Lost) /(Total Number of Customers)
+
 
 Understanding and measuring churn can help companies:
 - **Assess their competitive positioning:** Identifying areas where competitors might be outperforming.
